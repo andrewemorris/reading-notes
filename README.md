@@ -1,5 +1,5 @@
 # reading-notes
-Hi, I'm **Andrew** :ghost:
+Hi, I'm **Andrew** 👻
 
 [Here is my GitHub portfolio](https://github.com/andrewemorris)
 
