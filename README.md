@@ -11,4 +11,4 @@ Three things to keep oneself on-track with a *growth mindset*:
 - 	:hugs: The success of others is something to spur oneself onwards
 - :exploding_head: The mind is like plastic not stone
 
-I have some [more notes here](more-notes.md) 
+I have some [extra notes here](extra-notes.md) 
