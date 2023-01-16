@@ -10,3 +10,5 @@ Three things to keep oneself on-track with a *growth mindset*:
 - 	:clown_face: Mistakes are a learning opportunity
 - 	:hugs: The success of others is something to spur oneself onwards
 - :exploding_head: The mind is like plastic not stone
+
+I have some [more notes here](more-notes.md) 
