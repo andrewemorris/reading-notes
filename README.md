@@ -5,6 +5,7 @@ Hi, I'm **Andrew** 👻
 
 ## Table of contents
 *  [code-02](code-02.md) 
+*  [code-03](code-03.md) 
 
 ## What is a growth mindset?
 A **growth mindset** is a open approach to learning that starts from the perspective that skills and knowledge are not fixed or ossified and can be developed and grow
