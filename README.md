@@ -1,20 +1,19 @@
 # reading-notes
-Hi, I'm **Andrew** 👻
 
+Hi, I'm **Andrew** 👻
 [Here is my GitHub portfolio](https://github.com/andrewemorris)
 
+## What is this website
+
+This websirte contiand personal notes for the fullstack bootcamp 🤯
+
 ## Table of contents
-*  [code-02](code-02.md) 
-*  [code-03](code-03.md) 
 
-## What is a growth mindset?
-A **growth mindset** is a open approach to learning that starts from the perspective that skills and knowledge are not fixed or ossified and can be developed and grow
+### Code 102 Reading Notes
 
-Three things to keep oneself on-track with a *growth mindset*:
-- 	🤡  Mistakes are a learning opportunity
-- 	🤗 The success of others is something to spur oneself onwards
--   🤯 The mind is like plastic not stone
+* [code-02](./102/code-02.md)
+* [code-03](./102/code-03.md)
 
+### Code 201 Reading Notes
 
-
-
+* *TBC*
