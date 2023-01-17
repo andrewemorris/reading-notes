@@ -13,6 +13,11 @@ To make a local copy of a remote repo use `clone` with the URL of the git, e.g. 
 
 The Git/GitHub process is:
 
-1. Add (locally to git)
-2. Commit (the local changes)
-3. Push (the commited changes to the remote GitHub)
+1. Add (locally to git) e.g. `git add .`
+2. Commit (the local changes) e.g. `git commit`
+3. Push (the commited changes to the remote GitHub) e.g. `git push -f`
+
+## Notes
+
+* git push -f firces local to overwrite remote (i.e. when remote not in sync and wna tto overweite it)
+* git status summarieses the differences between local and remote
