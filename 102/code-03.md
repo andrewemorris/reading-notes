@@ -19,5 +19,6 @@ The Git/GitHub process is:
 
 ## Notes
 
+* Each time file is updated it needs to be added
 * git push -f firces local to overwrite remote (i.e. when remote not in sync and wna tto overweite it)
 * git status summarieses the differences between local and remote
